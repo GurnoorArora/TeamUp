@@ -2,13 +2,6 @@
 
 <h1><img src="https://user-images.githubusercontent.com/59141533/131732817-23a34498-10d3-4024-9519-d064a67a8482.png" width=50px height=50px />Team Maker</h1> 
 
-
-[![Team Maker Thumbnail](https://user-images.githubusercontent.com/59141533/157925006-ed5b167a-fd18-4629-bf5a-2f0e59178b42.png)](https://www.loom.com/share/2079f9206a6d4b31a29a9f1f829bae25)
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-
-[Live Link](https://connect-team.herokuapp.com/) | [Demo](https://www.loom.com/share/2079f9206a6d4b31a29a9f1f829bae25)
-
 # The problem Team Maker solves
 
 A real-world issue we've encountered while looking for a team to participate in a hackathon is finding a random teammate or team and synchronising our abilities as best we can, which is extremely difficult to do with people we don't know anything about. Team Maker attempts to address this issue by allowing users to search for teams using multiple filters and learn about one another via user portfolios.
